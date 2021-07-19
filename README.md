@@ -7,3 +7,9 @@
 - padding 주위를 둘러싸는 테두리
 4. margin
 -border외부영역
+
+##
+1. *{
+box-sizing: border-box 
+  }
+-border를 기준으로 px계산
