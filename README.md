@@ -12,4 +12,4 @@
 1. *{
 box-sizing: border-box 
   }
--border를 기준으로 px계산
+- border를 기준으로 px계산
